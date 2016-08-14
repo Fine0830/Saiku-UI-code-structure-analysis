@@ -2,7 +2,7 @@
 
 1、Saiku简介
 
-Saiku是一个轻量级的OLAP分析引擎，可以方便的扩展、嵌入和配置。Saiku通过REST API连接OLAP系统，利用其友好的界面为用户提供直观的分析数据的方式，它是基于backbone做的前端界面。
+Saiku是一个轻量级的OLAP分析引擎，可以方便的扩展、嵌入和配置。Saiku通过REST API连接OLAP系统，利用其友好的界面为用户提供直观的分析数据的方式，它是基于backbone.js MV*框架实现前端功能。
 
 2、Saiku-ui结构分析
 
