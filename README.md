@@ -14,7 +14,10 @@ Saiku-ui的样式在css文件、图片在images文件、行为放在js(saiku)文
 2.1 index.html 
 saiku采用jquery tmpl作为模板，通过模板ID在相应的view里面调用 
 如：
+
+```
 <script type="text/x-jquery-tmpl" id="template-workspace">
+```
 
 在对应的在workspace.js里面的模板。
 
