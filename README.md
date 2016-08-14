@@ -9,4 +9,4 @@ OLAP（On-Line Analytical Processing，联机分析处理）是一个使分析�
 
 Saiku-ui的样式在css文件、图片在images文件、行为放在js(saiku)文件、内容index.html，server（node）代理服务器，其目录结构 
 如下图所示：
-![image](https://github.com/Saiku-UI-code-structure-analysis/images/structure1.jpg)
+![image](https://github.com/Fine0830/Saiku-UI-code-structure-analysis/blob/master/images/structure1.jpg)
